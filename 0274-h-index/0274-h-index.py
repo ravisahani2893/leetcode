@@ -4,10 +4,6 @@ class Solution:
 
         citations.sort(reverse=True)
         
-        
-
-       
-
         while(totalPaper > 0):
             count=0
             for i in range(len(citations)):
@@ -24,9 +20,6 @@ class Solution:
 
             totalPaper=totalPaper-1
 
-
-
-           
 
         return 0
         
