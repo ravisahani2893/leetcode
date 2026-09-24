@@ -1,25 +1,17 @@
 class Solution:
     def hIndex(self, citations: list[int]) -> int:
-        totalPaper = len(citations)
-
         citations.sort(reverse=True)
         
-        while(totalPaper > 0):
-            count=0
-            for i in range(len(citations)):
+        
 
-                if citations[i] < totalPaper:
-                    break
+        h=0
 
-                if citations[i] >= totalPaper:
-                    count=count+1
-                
+        for i in range(len(citations)):
 
-            if count >= totalPaper:
-                return totalPaper
+            if citations[i] >= i+1:
+                h=h+1
+            else:
+                break
 
-            totalPaper=totalPaper-1
-
-
-        return 0
+        return h
         
