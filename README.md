@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravisahani2893/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravisahani2893/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ravisahani2893/leetcode/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/ravisahani2893/leetcode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/ravisahani2893/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ravisahani2893/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/ravisahani2893/leetcode/tree/master/0274-h-index) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ravisahani2893/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravisahani2893/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ravisahani2893/leetcode/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/ravisahani2893/leetcode/tree/master/0135-candy) |
 ## Divide and Conquer
 |  |
 | ------- |
