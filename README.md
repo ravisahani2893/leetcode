@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravisahani2893/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ravisahani2893/leetcode/tree/main/0134-gas-station/) | Medium |
 | [0189-rotate-array](https://github.com/ravisahani2893/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/ravisahani2893/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/ravisahani2893/leetcode/tree/master/0274-h-index) |
 ## Math
 | Problem Name | Difficulty |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/ravisahani2893/leetcode/tree/master/0274-h-index) |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/ravisahani2893/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
