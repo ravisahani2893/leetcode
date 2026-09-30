@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product">1690. Maximum Length of Subarray With Positive Product</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>nums</code>, find the maximum length of a subarray where the product of all its elements is positive.</p>
+<h2><a href="https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/">1567. Maximum Length of Subarray With Positive Product</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>nums</code>, find the maximum length of a subarray where the product of all its elements is positive.</p>
 
 <p>A subarray of an array is a consecutive sequence of zero or more values taken out of that array.</p>
 
