@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravisahani2893/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ravisahani2893/leetcode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/ravisahani2893/leetcode/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/ravisahani2893/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ravisahani2893/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ravisahani2893/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/ravisahani2893/leetcode/tree/master/0274-h-index) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ravisahani2893/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/ravisahani2893/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ravisahani2893/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0274-h-index](https://github.com/ravisahani2893/leetcode/tree/master/0274-h-index) |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ravisahani2893/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0274-h-index](https://github.com/ravisahani2893/leetcode/tree/master/0274-h-index) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -107,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ravisahani2893/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ravisahani2893/leetcode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ravisahani2893/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
