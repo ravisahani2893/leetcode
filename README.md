@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ravisahani2893/leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/ravisahani2893/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ravisahani2893/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/ravisahani2893/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ravisahani2893/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/ravisahani2893/leetcode/tree/master/0274-h-index) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/ravisahani2893/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ravisahani2893/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ravisahani2893/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ravisahani2893/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ravisahani2893/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ravisahani2893/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ravisahani2893/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ravisahani2893/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ravisahani2893/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ravisahani2893/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ravisahani2893/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
@@ -119,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ravisahani2893/leetcode/tree/main/0169-majority-element/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/ravisahani2893/leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/ravisahani2893/leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
